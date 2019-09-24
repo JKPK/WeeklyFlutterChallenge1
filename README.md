@@ -34,4 +34,4 @@ SystemChrome.setPreferredOrientations([
 ![Original Design](https://github.com/JKPK/WeeklyFlutterChallenge1/blob/master/original_design.png?raw=true)
 
 ## Challenge result
-![Original Design](https://github.com/JKPK/WeeklyFlutterChallenge1/blob/master/challenge_result.png?raw=true)
+![Challenge result](https://github.com/JKPK/WeeklyFlutterChallenge1/blob/master/challenge_result.png?raw=true)
