@@ -33,5 +33,5 @@ SystemChrome.setPreferredOrientations([
 ## Original design
 ![Original Design](https://github.com/JKPK/WeeklyFlutterChallenge1/blob/master/original_design.png?raw=true)
 
-## Challenge result
-![Challenge result](https://github.com/JKPK/WeeklyFlutterChallenge1/blob/master/challenge_result.png?raw=true)
+## Challenge result - click GIF to see video
+[![Challenge result](https://github.com/JKPK/WeeklyFlutterChallenge1/blob/master/challenge_result.gif?raw=true)](https://www.youtube.com/watch?v=-qssYuAtWrI)
